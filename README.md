@@ -2,7 +2,7 @@
 Mater Guide for Development of Agentic AI
 
 Follow me On X for news on the latest tools and trends:
-*   [My X Profile](https://x.com/RobOticLoops)
+*   [RobOticLoops](https://x.com/RobOticLoops)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
