@@ -5,6 +5,9 @@ Welcome to the Model Deep Dive section of the Awesome Agentic AI guide. While th
 **Goal:** To help developers understand the landscape of relevant models and choose the best fit for their agentic projects based on capabilities, access, cost, modality, and benchmarks.
 
 **Note:** The field of AI models evolves *extremely* rapidly. While we strive for accuracy, always consult the official model providers and benchmark sources for the absolute latest information. Benchmark scores presented here are indicative and context-dependent.
+
+*   [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of Large Language Model**
+
 ---
 
 ## Table of Contents
