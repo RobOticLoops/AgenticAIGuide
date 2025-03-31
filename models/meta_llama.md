@@ -1,9 +1,4 @@
-Okay, let's start creating the detailed model breakdown files within the /models/ directory, beginning with one of the most prominent open-weight families: Meta Llama.
-
-Create models/meta_llama.md
-Create a file named meta_llama.md inside the models directory.
-
-      # Model Deep Dive: Meta Llama Family (Llama 3, Llama 2)
+# Model Deep Dive: Meta Llama Family (Llama 3, Llama 2)
 
 The Llama models, developed by Meta AI, are a family of powerful and widely adopted open-weight Large Language Models. They have significantly impacted the open-source AI community, providing strong base models for further research, fine-tuning, and application development, including agentic systems.
 
