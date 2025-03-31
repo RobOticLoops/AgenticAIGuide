@@ -9,6 +9,8 @@ This repository aims to be the definitive guide for developers looking to explor
 
 **Contributions are welcome!** Please see the [Contributing Guidelines](./CONTRIBUTING.md).
 
+**You will notice prompts tailered to LearnLM 1.5 within the guide files. This is for a future implementation of a Dynamic UI that creates a learning path and time blocks based off specfic Agentic goals the user creates. 
+
 ---
 
 ## Table of Contents
