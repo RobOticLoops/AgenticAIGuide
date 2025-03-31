@@ -452,10 +452,9 @@ Keeping track of the rapidly evolving Agentic AI landscape.
 
 ---
 
-## Model Deep Dive (Coming Soon)
+## Model Deep Dive 
 
-*   **(Placeholder)** [`./models/`](./models/README.md) - A dedicated section comparing foundation models based on benchmarks, use cases, modalities, and suitability for agentic tasks. (Link to be created later).
-
+*   [`./models/`](./models/README.md) - A dedicated section comparing foundation models based on benchmarks, use cases, modalities, and suitability for agentic tasks.
 ---
 
 ## Contributing
