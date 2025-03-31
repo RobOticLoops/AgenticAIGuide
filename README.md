@@ -455,6 +455,8 @@ Keeping track of the rapidly evolving Agentic AI landscape.
 ## Model Deep Dive 
 
 *   [`./models/`](./models/README.md) - A dedicated section comparing foundation models based on benchmarks, use cases, modalities, and suitability for agentic tasks.
+*   **Awesome-LLM: a curated list of Large Language Model**
+    * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 ---
 
 ## Contributing
