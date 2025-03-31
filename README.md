@@ -1,10 +1,11 @@
 # Awesome Agentic AI - The Master Guide
-Mater Guide for Development of Agentic AI
 
 Follow me On X for news on the latest tools and trends:
 *   [RobOticLoops](https://x.com/RobOticLoops)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Mater Guide for Development of Agentic AI
 
 **A curated list of awesome frameworks, platforms, models, tools, APIs, and resources for building Agentic AI systems.**
 
