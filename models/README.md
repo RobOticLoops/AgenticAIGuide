@@ -152,13 +152,14 @@ For in-depth information on specific model families, see:
 *   [Anthropic Claude Models](./anthropic_claude.md) *(Coming Soon)*
 *   [Google Gemini Models](./google_gemini.md) *(Coming Soon)*
 *   [Google Gemma Models](./google_gemma.md) *(Coming Soon)*
-*   [Meta Llama Models](./meta_llama.md) *(Coming Soon)*
+*   **[Meta Llama Models](./meta_llama.md)** *(Created)*
 *   [Mistral Open Models](./mistral_open.md) *(Coming Soon)*
 *   [Mistral API Models](./mistral_api.md) *(Coming Soon)*
 *   [Microsoft Phi Models](./microsoft_phi.md) *(Coming Soon)*
 *   [Cohere Models](./cohere.md) *(Coming Soon)*
 *   [Qwen Models](./qwen.md) *(Coming Soon)*
 *   *(Add links as files are created)*
+
 
 ---
 
