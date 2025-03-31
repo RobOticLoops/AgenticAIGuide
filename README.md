@@ -153,7 +153,9 @@ Libraries and toolkits specifically designed for building agentic applications.
 
 *   **LangChain:** A popular framework for developing applications powered by language models. Provides modules for models, prompts, memory, indexing, chains, and agents.
     *   **Description:** Comprehensive toolkit with extensive integrations. Can have a steeper learning curve initially.
-    *   **Links:** [GitHub](https://github.com/langchain-ai/langchain) | [Python Docs](https://python.langchain.com/) | [JS/TS Docs](https://js.langchain.com/) | [Conceptual Docs](https://docs.langchain.com/docs/) | [YouTube Channel](https://www.youtube.com/@LangChain)
+    *   **Links:** [GitHub](https://github.com/langchain-ai/langchain) | [Python Docs](https://python.langchain.com/) | [JS/TS Docs](https://js.langchain.com/) | [Conceptual Docs](https://docs.langchain.com/docs/) | [YouTube Channel](https://www.youtube.com/@LangChain) 
+    *   **Links:** [GitHub](...) | [Python Docs](...) | ... | [**Guide**](./guides/frameworks/langchain.md)
+ 
 *   **LlamaIndex:** A data framework for LLM applications, focused on connecting custom data sources to LLMs. Excels at RAG (Retrieval-Augmented Generation) and data-centric agents.
     *   **Description:** Strong focus on data ingestion, indexing, querying, and integrating data into LLM workflows. Often used alongside LangChain or independently.
     *   **Links:** [GitHub](https://github.com/run-llama/llama_index) | [Documentation](https://docs.llamaindex.ai/en/stable/) | [Examples](https://docs.llamaindex.ai/en/stable/examples/examples.html) | [YouTube Channel](https://www.youtube.com/@LlamaIndex)
@@ -376,6 +378,9 @@ Keeping track of the rapidly evolving Agentic AI landscape.
 ---
 
 ## Example Implementations (Internal Link)
+
+*   [`./examples/`](./examples/) - Explore practical examples categorized by framework, task, and complexity. See the [Examples README](./examples/README.md) for structure.
+
 
 *   **(Placeholder)** [`./examples/`](./examples/) - Explore practical examples categorized by framework, task, and complexity. (Link to be created later when the folder exists).
 
