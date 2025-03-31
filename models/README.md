@@ -6,7 +6,7 @@ Welcome to the Model Deep Dive section of the Awesome Agentic AI guide. While th
 
 **Note:** The field of AI models evolves *extremely* rapidly. While we strive for accuracy, always consult the official model providers and benchmark sources for the absolute latest information. Benchmark scores presented here are indicative and context-dependent.
 
-*   [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of Large Language Model**
+*   [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of Large Language Models
 
 ---
 
