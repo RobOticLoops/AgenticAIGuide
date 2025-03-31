@@ -52,7 +52,7 @@ This repository aims to be the definitive guide for developers looking to explor
     *   [YouTube Channels & Videos](#youtube-channels--videos)
 *   [News & Recent Releases](#news--recent-releases)
 *   [Example Implementations (Internal Link)](#example-implementations-internal-link)
-*   [Model Deep Dive (Coming Soon)](#model-deep-dive-coming-soon)
+*   [Model Deep Dive](#model-deep-dive)
 
 ---
 
